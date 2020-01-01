@@ -14,9 +14,10 @@
 */
 
 // remember the while loop from earlier??
-while ( i <= 3){
-  console.log('i is', i);
-  i++;
+let count = 1;
+while (count < 3) {
+  console.log('count is', count);
+  count++;
 }
 
 // for (let i = 1; i <= 3; i++) {
@@ -31,14 +32,13 @@ while ( i <= 3){
 /* then, after each iteration, the final expression is run */
 
 // for (let i = 1; i <= 3; i++) {
-//   debugger;
 //   console.log('i is:', i);
 // }
 
 // // loop in either direction
-for (let i = 5; i >= 1; i--) {
-  console.log('i is:', i);
-}
+// for (let i = 5; i >= 1; i--) {
+//   console.log('i is:', i);
+// }
 // i += 100 // i = i + 100
 // can increment by any number
 // for (let i = 100; i <= 300; i += 100) {
@@ -66,8 +66,6 @@ for (let i = 0; i < letters.length; i++) {
 
 console.log(letters);
 
-
-
 // FOR THIS WORKSHOP
 // important to note -> strings are inmutable
 // what does this mean???
@@ -80,8 +78,4 @@ console.log(letters);
 
 // Try it out:
 // make a capitalized version of our letters string
-
-
-
-
 

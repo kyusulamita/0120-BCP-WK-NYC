@@ -37,7 +37,7 @@
 
 
 
-let willBeAString = 10 + 20 + "30" + 40 + 50;
+// let willBeAString = 10 + 20 + "30" + 40 + 50;
 // 10 + 20 + "30" + 40 + "50"
 // 30 + "30" + 40 + 50
 // "30" + "30" + 40 + 50
@@ -46,5 +46,5 @@ let willBeAString = 10 + 20 + "30" + 40 + 50;
 // "303040" + 50
 // "303040" + "50"
 // "30304050"
-console.log(willBeAString);
-console.log(typeof willBeAString);
+// console.log(willBeAString);
+// console.log(typeof willBeAString);
