@@ -22,3 +22,30 @@
 //     break;
 //   }
 // }
+
+
+
+const isLotteryWinner = (lotteryNum = 25) => {
+  // returns a number between 1 and 100;
+  const winningNumber = Math.floor(Math.random() * 100) + 1;
+  return winningNumber === lotteryNum;
+}
+
+
+const lotteryNum = 14;
+let wonLottery = isLotteryWinner(lotteryNum);
+let ticketsPurchased = 1;
+
+while (wonLottery === false) {
+  if (ticketsPuchased === 25) {
+    break;
+  }
+  wonLottery = isLotteryWinner(lotteryNum);
+  ticketsPurchased++;
+}
+
+if (wonLottery) {
+  console.log(`You finally won! It only took ${ticketsPurchased} tickets to win`);
+} else {
+  console.log(`You spent too much on tickets, we had to make it stop`);
+}

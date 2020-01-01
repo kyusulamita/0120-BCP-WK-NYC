@@ -1,0 +1,7 @@
+require("./01-explicit-coercion.js")
+require("./02-implicit-coercion.js")
+require("./03-implicit-coercion-II.js")
+require("./04-conditionals.js")
+require("./05-not-operator.js")
+require("./06-and.js")
+require("./07-or.js")
