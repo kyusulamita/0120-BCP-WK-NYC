@@ -17,22 +17,30 @@
 
 ## **01 Introduction and tidy code**
 
-**[Live Lecture]()**
+**[Pre-reading]()**
 
-[Workshop](https://learn.fullstackacademy.com/workshop/5ab7da028b8e9b000477fd36/content/5ab7dbafa468c900045db6ed/text)
+<!-- **[Live Lecture]()** -->
+
+<!-- [Workshop](https://learn.fullstackacademy.com/workshop/5ab7da028b8e9b000477fd36/content/5ab7dbafa468c900045db6ed/text) -->
 <!-- [Solutions](https://learn.fullstackacademy.com/workshop/5ab7da028b8e9b000477fd36/content/5ab7dc11a468c900045db703/text) -->
 
 ### Notes 
 [Full Notes](01-tidy-code)
 
 1. [Indenting](01-tidy-code/01-indenting.js)
-2. [Variable Names](01-tidy-code/02-variable-names.js)
+2. [Variable Names](01-tidy-code/02-variable-names.js)       
+3. [Pup Example](01-tidy-code/03-pup-example.js)
+4. [String Interpolation](01-tidy-code/04-string-interpolation.js)
+5. [Quick Maths](01-tidy-code/05-quick-maths.js)
+
 
 ## **02 Loops And Debugging**
 
-**[Live Lecture]()**
+**[Pre-reading]()**
 
-[Workshop](https://learn.fullstackacademy.com/workshop/5ac57192f7ff470004a63148/content/5ac572977ec3340004bddd57/text)
+<!-- **[Live Lecture]()** -->
+
+<!-- [Workshop](https://learn.fullstackacademy.com/workshop/5ac57192f7ff470004a63148/content/5ac572977ec3340004bddd57/text) -->
 
 <!-- [Solutions](https://learn.fullstackacademy.com/workshop/5ac57192f7ff470004a63148/content/5ac57384f7ff470004a63170/text) -->
 
@@ -47,9 +55,11 @@
 
 ## **03 Coercion and Truthiness**
 
-**[Live Lecture]()**
+**[Pre-reading]()**
 
-[Workshop](https://learn.fullstackacademy.com/workshop/5ac574e51abd3200043c12e8/content/5ac574e51abd3200043c12ed/text)
+<!-- **[Live Lecture]()** -->
+
+<!-- [Workshop](https://learn.fullstackacademy.com/workshop/5ac574e51abd3200043c12e8/content/5ac574e51abd3200043c12ed/text) -->
 <!-- 
 [Solutions](https://learn.fullstackacademy.com/workshop/5ac574e51abd3200043c12e8/content/5ac574e51abd3200043c12ee/text) -->
 
@@ -66,9 +76,11 @@
 
 ## **04 Scope**
 
-**[Live Lecture](https://youtu.be/jKrnFg-HkUQ)**
+**[Pre-reading]()**
 
-[Workshop](https://learn.fullstackacademy.com/workshop/5ac576417ec3340004bdddb4/content/5ac576417ec3340004bdddb9/text)
+<!-- **[Live Lecture](https://youtu.be/jKrnFg-HkUQ)** -->
+
+<!-- [Workshop](https://learn.fullstackacademy.com/workshop/5ac576417ec3340004bdddb4/content/5ac576417ec3340004bdddb9/text) -->
 
 <!-- [Solutions](https://learn.fullstackacademy.com/workshop/5ac576417ec3340004bdddb4/content/5ac576417ec3340004bdddba/text) -->
 
@@ -88,9 +100,11 @@
 
 ## **05 Arrays I**
 
-**[Live Lecture](https://youtu.be/-cBLRWtSF6g)**
+**[Pre-reading]()**
 
-[Workshop](https://learn.fullstackacademy.com/workshop/5ac57806bd9f9e0004adb186/content/5ac57806bd9f9e0004adb18b/text)
+<!-- **[Live Lecture](https://youtu.be/-cBLRWtSF6g)** -->
+
+<!-- [Workshop](https://learn.fullstackacademy.com/workshop/5ac57806bd9f9e0004adb186/content/5ac57806bd9f9e0004adb18b/text) -->
 
 <!-- [Solutions](https://learn.fullstackacademy.com/workshop/5ac57806bd9f9e0004adb186/content/5ac57806bd9f9e0004adb18c/text) -->
 
