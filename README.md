@@ -17,12 +17,11 @@
 
 ## **01 Introduction and tidy code**
 
-**[Pre-reading]()**
 
-<!-- **[Live Lecture]()** -->
+**[Live Lecture](https://youtu.be/VixA0_5rQTI)**
 
 [Workshop](https://learn.fullstackacademy.com/workshop/5ab7da028b8e9b000477fd36/content/5ab7dbafa468c900045db6ed/text)
-<!-- [Solutions](https://learn.fullstackacademy.com/workshop/5ab7da028b8e9b000477fd36/content/5ab7dc11a468c900045db703/text) -->
+[Solutions](https://learn.fullstackacademy.com/workshop/5ab7da028b8e9b000477fd36/content/5ab7dc11a468c900045db703/text)
 
 ### Notes 
 [Full Notes](01-tidy-code)
@@ -38,19 +37,20 @@
 
 **[Pre-reading]()**
 
-<!-- **[Live Lecture]()** -->
+**[Live Lecture](https://youtu.be/7TUOXFCeeZY)**
 
 [Workshop](https://learn.fullstackacademy.com/workshop/5ac57192f7ff470004a63148/content/5ac572977ec3340004bddd57/text)
 
-<!-- [Solutions](https://learn.fullstackacademy.com/workshop/5ac57192f7ff470004a63148/content/5ac57384f7ff470004a63170/text) -->
+[Solutions](https://learn.fullstackacademy.com/workshop/5ac57192f7ff470004a63148/content/5ac57384f7ff470004a63170/text)
 
 ### Notes 
 [Full Notes](02-loops-and-debugging)
 
 1. [While Loop](02-loops-and-debugging/01-while-loop.js)
 2. [For Loop](02-loops-and-debugging/02-for-loop.js)
-3. [Continue Keyword](02-loops-and-debugging/03-continue-keyword.js)
-4. [Break Keyword](02-loops-and-debugging/04-break-keyword.js)
+3. [Which is Better](02-loops-and-debugging/03-which-is-better.js)
+4. [Continue Keyword](02-loops-and-debugging/04-continue-keyword.js)
+5. [Break Keyword](02-loops-and-debugging/04-break-keyword.js)
 
 
 ## **03 Coercion and Truthiness**

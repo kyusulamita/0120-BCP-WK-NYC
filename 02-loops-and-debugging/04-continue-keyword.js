@@ -2,18 +2,18 @@
 // https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Arithmetic_Operators
 
 // the continue keyword will cause the loop to skip to the next iteration
-for (let i = 1; i <= 5; i++) {
-  if (i === 3) {
-    continue;
-  }
-  console.log('i is:', i);
-}
+// for (let i = 1; i <= 5; i++) {
+//   if (i === 3) {
+//     continue;
+//   }
+//   console.log('i is:', i);
+// }
 
 // the continue keyword also works in while loops
 // let count = 5;
 // while (count >= 1) {
 //   if (count % 2 === 0) {
-//     count--; 
+//     count--;
 //     continue;
 //   }
 //  console.log('count is', count);
@@ -28,6 +28,7 @@ for (let i = 1; i <= 5; i++) {
 // let count = 5;
 // while (count >= 1) {
 //   if (count % 2 === 0) {
+//     console.log('hi');
 //     continue;
 //   }
 //   console.log('count is', count);
@@ -57,5 +58,22 @@ const logOutEven = (end) => {
   }
 }
 
-logOutEven(10);
+// const isVowel = () => {
+function isVowel(char) {
 
+}
+
+
+function logOutVowels(str){
+  for (let i = 0; i < str.length; i++){
+    const char = str[i];
+    if (isVowel(char)) {
+      continue;
+    }
+    console.log(char);
+  }
+}
+// logOutEven(10);
+let sum = 0;
+sum = sum + 10;
+// console.log(sum);

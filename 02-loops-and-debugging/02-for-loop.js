@@ -14,11 +14,11 @@
 */
 
 // remember the while loop from earlier??
-let count = 1;
-while (count < 3) {
-  console.log('count is', count);
-  count++;
-}
+// let count = 1;
+// while (count < 3) {
+//   console.log('count is', count);
+//   count++;
+// }
 
 // for (let i = 1; i <= 3; i++) {
 //   console.log('i is:', i);
@@ -54,17 +54,18 @@ while (count < 3) {
 // use for loops to iterate through a string
 let letters = 'abcdefg';
 
-//letters[0]//'a'
+// console.log(letters[0])//'a'
 //letters[1]//'b'
 //letters[2]//'c'
 
-for (let i = 0; i < letters.length; i++) {
-  let currentLetter = letters[i];
-  console.log(`The letter at index ${i} is ${currentLetter}`);
-}
+// console.log(letters.length);
+// for (let i = 0; i < letters.length; i++) {
+//   let currentLetter = letters[i];
+//   console.log(`The letter at index ${i} is ${currentLetter}`);
+// }
 
 
-console.log(letters);
+// console.log(letters);
 
 // FOR THIS WORKSHOP
 // important to note -> strings are inmutable
@@ -78,4 +79,12 @@ console.log(letters);
 
 // Try it out:
 // make a capitalized version of our letters string
+let newStr  = '';  // undefined
+for (let i = 0; i < letters.length; i++) {
+  let currentLetter = letters[i];
+  let capitalLetter = currentLetter.toUpperCase();
+  newStr = newStr + capitalLetter;
+  console.log(`The letter at index ${i} is ${capitalLetter}`);
+}
 
+console.log(newStr);

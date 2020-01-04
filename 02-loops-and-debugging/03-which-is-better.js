@@ -24,7 +24,8 @@
 // So then? when is while loop used?? It's often used when you don't know how many iterations something will take
 
 
-const isLotteryWinner = (lotteryNum = 25) => {
+// const isLotteryWinner = (lotteryNum = 25) => {
+function isLotteryWinner (lotteryNum = 25) {
   // returns a number between 1 and 100;
   const winningNumber = Math.floor(Math.random() * 100) + 1;
   return winningNumber === lotteryNum;

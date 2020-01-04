@@ -1,9 +1,10 @@
+/* eslint-disable no-constant-condition */
 // the break keyword breaks out of the loop permanently
 // let myGrade = 'A';
 // while (true) {
 
 //   myGrade += '+';
-
+//   // 'A++'
 //   if (myGrade.length === 3) {
 //     break;
 //     console.log("After break")
