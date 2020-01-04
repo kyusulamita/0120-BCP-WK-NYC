@@ -11,6 +11,6 @@ Pup.prototype.speak = function() {
 const markPup = new Pup(`Mark`);
 
 
-// Don’t worry about what this means now!
+// Don’t worry about what `this` means now!
 
 // we will cover the `this` keyword in a future lecture :)
