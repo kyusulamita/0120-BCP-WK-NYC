@@ -9,7 +9,7 @@ Pup.prototype.speak = function() {
 
 
 const markPup = new Pup(`Mark`);
-
+markPup.speak();
 
 // Don’t worry about what `this` means now!
 
