@@ -21,7 +21,7 @@
 
 <!-- **[Live Lecture]()** -->
 
-<!-- [Workshop](https://learn.fullstackacademy.com/workshop/5ab7da028b8e9b000477fd36/content/5ab7dbafa468c900045db6ed/text) -->
+[Workshop](https://learn.fullstackacademy.com/workshop/5ab7da028b8e9b000477fd36/content/5ab7dbafa468c900045db6ed/text)
 <!-- [Solutions](https://learn.fullstackacademy.com/workshop/5ab7da028b8e9b000477fd36/content/5ab7dc11a468c900045db703/text) -->
 
 ### Notes 
@@ -40,7 +40,7 @@
 
 <!-- **[Live Lecture]()** -->
 
-<!-- [Workshop](https://learn.fullstackacademy.com/workshop/5ac57192f7ff470004a63148/content/5ac572977ec3340004bddd57/text) -->
+[Workshop](https://learn.fullstackacademy.com/workshop/5ac57192f7ff470004a63148/content/5ac572977ec3340004bddd57/text)
 
 <!-- [Solutions](https://learn.fullstackacademy.com/workshop/5ac57192f7ff470004a63148/content/5ac57384f7ff470004a63170/text) -->
 
@@ -59,7 +59,7 @@
 
 <!-- **[Live Lecture]()** -->
 
-<!-- [Workshop](https://learn.fullstackacademy.com/workshop/5ac574e51abd3200043c12e8/content/5ac574e51abd3200043c12ed/text) -->
+[Workshop](https://learn.fullstackacademy.com/workshop/5ac574e51abd3200043c12e8/content/5ac574e51abd3200043c12ed/text)
 <!-- 
 [Solutions](https://learn.fullstackacademy.com/workshop/5ac574e51abd3200043c12e8/content/5ac574e51abd3200043c12ee/text) -->
 
@@ -74,16 +74,16 @@
 6. [And](03-coercion-and-truthiness/06-and.js)
 7. [Or](03-coercion-and-truthiness/07-or.js)
 
-## **04 Scope**
+<!-- ## **04 Scope**
 
-**[Pre-reading]()**
+**[Pre-reading]()** -->
 
 <!-- **[Live Lecture](https://youtu.be/jKrnFg-HkUQ)** -->
 
 <!-- [Workshop](https://learn.fullstackacademy.com/workshop/5ac576417ec3340004bdddb4/content/5ac576417ec3340004bdddb9/text) -->
 
 <!-- [Solutions](https://learn.fullstackacademy.com/workshop/5ac576417ec3340004bdddb4/content/5ac576417ec3340004bdddba/text) -->
-
+<!-- 
 ### Notes 
 [Full Notes](04-scope)
 
@@ -100,14 +100,14 @@
 
 ## **05 Arrays I**
 
-**[Pre-reading]()**
+**[Pre-reading]()** -->
 
 <!-- **[Live Lecture](https://youtu.be/-cBLRWtSF6g)** -->
 
 <!-- [Workshop](https://learn.fullstackacademy.com/workshop/5ac57806bd9f9e0004adb186/content/5ac57806bd9f9e0004adb18b/text) -->
 
 <!-- [Solutions](https://learn.fullstackacademy.com/workshop/5ac57806bd9f9e0004adb186/content/5ac57806bd9f9e0004adb18c/text) -->
-
+<!-- 
 ### Notes 
 [Full Notes](05-arrays-i)
 
@@ -117,4 +117,4 @@
 4. [Shift + Unshift](05-array-i/04-shift-unshift.js)
 5. [More methods](05-array-i/05-more-methods.js)
 6. [Slice + Reverse](05-array-i/06-slice.js)
-
+ -->
