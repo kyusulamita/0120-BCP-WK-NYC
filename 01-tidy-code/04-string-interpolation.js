@@ -13,7 +13,7 @@ const adj2 = 'fashionable';
 const animal2 = 'guppy';
 
 
-const wthVars = 'The ' + adj + ' ' + color + ' ' + animal1 + ' ' + verb + ' over the ' + adj2 + ' ' + animal2;
+const withVars = 'The ' + adj + ' ' + color + ' ' + animal1 + ' ' + verb + ' over the ' + adj2 + ' ' + animal2;
 console.log(withVars);
 // so much more work!
 // and it’s so easy to forget a ‘ ‘
@@ -33,4 +33,5 @@ console.log(newWay);
 const familyMember = 'mother';
 const food = 'pizza';
 
-const sent = ``;
+const sentence = ``;
+console.log(sentence);
