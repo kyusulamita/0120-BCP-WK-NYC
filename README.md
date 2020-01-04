@@ -57,7 +57,7 @@
 
 **[Prerecorded Lecture](https://learn.fullstackacademy.com/workshop/5ac574e51abd3200043c12e8/content/5ac574e51abd3200043c12ec/text)**
 
-<!-- **[Live Lecture]()** -->
+**[Live Lecture](https://youtu.be/jj316tq1m4Y)**
 
 [Workshop](https://learn.fullstackacademy.com/workshop/5ac574e51abd3200043c12e8/content/5ac574e51abd3200043c12ed/text)
 <!-- 

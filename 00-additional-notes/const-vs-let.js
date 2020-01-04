@@ -9,7 +9,7 @@
 // moneyInSavings will hopefully change, so we want JS to know we will make changes to it
 let moneyInSavings = 10;
 moneyInSavings = 100;
-
+console.log(moneyInSavings);
 
 // USING CONST
 // const is used when we're defining a variable whose value will NOT change

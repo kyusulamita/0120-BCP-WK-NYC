@@ -8,12 +8,12 @@ console.log(num);
 console.log(typeof num);
 
 // // for sure not a number string
-// let notStrNum = 'cat cat';
-// console.log(notStrNum);
-// console.log(typeof notStrNum);
+let notStrNum = 'cat cat';
+console.log(notStrNum);
+console.log(typeof notStrNum);
 
 // // coerce into number
-// let notNum = Number(notStrNum);
-// console.log(notNum);
-// console.log(typeof notNum);
+let notNum = Number(notStrNum);
+console.log(notNum);
+console.log(typeof notNum);
 
