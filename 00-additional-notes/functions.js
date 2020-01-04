@@ -38,20 +38,20 @@
 // this won't work because we haven't defined it yet
 // newGuy();
 
-// const newGuy = () => {
-//   console.log('hi');
-// }
+const newGuy = () => {
+  console.log('hi');
+}
 // this works
 // newGuy();
 
 
 // this also won't work because we haven't defined it yet
-alsoNewGuy();
+// alsoNewGuy();
 
 // doesn't matter that we used function keyword because we're putting it in a variable
 const alsoNewGuy = function(){
   console.log('hi');
 }
 // this works
-// alsoNewGuy();
+alsoNewGuy();
 

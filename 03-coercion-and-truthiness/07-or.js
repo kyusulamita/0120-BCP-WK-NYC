@@ -8,3 +8,4 @@ console.log('returnedValue1:', returnedValue1);
 
 let returnedValue2 = false || null || 10 < 0 || NaN;
 console.log('returnedValue2:', returnedValue2);
+
