@@ -28,3 +28,21 @@ function outer() {
 }
 outer();
 // */
+
+
+/* consider nested functions */
+let collision = 'global';
+function house(collision) {
+  
+  function room(collision) {
+    // let collision = 'sup';
+    collision = 'sup';
+    console.log(collision);
+    return "keys";
+  }
+ const roomReturns = room('hello');
+ return roomReturns;
+}
+
+
+house();
