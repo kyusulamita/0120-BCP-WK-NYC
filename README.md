@@ -5,7 +5,12 @@
 1. [Introduction And Tidy Code](#01-introduction-and-tidy-code)
 2. [Loops And Debugging](#02-loops-and-debugging)
 3. [Coercion And Truthiness](#03-coercion-and-truthiness)
-
+4. [Scope](#04-scope)
+5. [Arrays I](#05-arrays-i)
+6. [Arrays II](#06-arrays-ii)
+7. [Objects](#07-objects)
+8. [Objects Methods](#08-object-methods)
+9. [Pass by value + pass by reference](#09-pass-by-value-and-pass-by-reference)
 
 ## Additional Resources
 * [Repl.it](https://repl.it/repls) Play around with code!
@@ -60,8 +65,8 @@
 **[Live Lecture](https://youtu.be/jj316tq1m4Y)**
 
 [Workshop](https://learn.fullstackacademy.com/workshop/5ac574e51abd3200043c12e8/content/5ac574e51abd3200043c12ed/text)
-<!-- 
-[Solutions](https://learn.fullstackacademy.com/workshop/5ac574e51abd3200043c12e8/content/5ac574e51abd3200043c12ee/text) -->
+
+[Solutions](https://learn.fullstackacademy.com/workshop/5ac574e51abd3200043c12e8/content/5ac574e51abd3200043c12ee/text)
 
 ### Notes 
 [Full Notes](03-coercion-and-truthiness)
@@ -78,11 +83,11 @@
 
 **[Prerecorded Lecture](https://learn.fullstackacademy.com/workshop/5ac576417ec3340004bdddb4/content/5ac576417ec3340004bdddb8/text)**
 
-**[Live Lecture]()**
+**[Live Lecture](https://youtu.be/Or0f-g1gu8k)**
 
 [Workshop](https://learn.fullstackacademy.com/workshop/5ac576417ec3340004bdddb4/content/5ac576417ec3340004bdddb9/text)
 
-<!-- [Solutions](https://learn.fullstackacademy.com/workshop/5ac576417ec3340004bdddb4/content/5ac576417ec3340004bdddba/text) -->
+[Solutions](https://learn.fullstackacademy.com/workshop/5ac576417ec3340004bdddb4/content/5ac576417ec3340004bdddba/text)
 
 ### Notes 
 [Full Notes](04-scope)
@@ -102,11 +107,11 @@
 
 **[Prerecorded Lecture](https://learn.fullstackacademy.com/workshop/5ac57806bd9f9e0004adb186/content/5ac57806bd9f9e0004adb18a/text)**
 
-<!-- **[Live Lecture](https://youtu.be/-cBLRWtSF6g)** -->
+**[Live Lecture](https://youtu.be/do-oEe4aQpU)**
 
-<!-- [Workshop](https://learn.fullstackacademy.com/workshop/5ac57806bd9f9e0004adb186/content/5ac57806bd9f9e0004adb18b/text) -->
+[Workshop](https://learn.fullstackacademy.com/workshop/5ac57806bd9f9e0004adb186/content/5ac57806bd9f9e0004adb18b/text)
 
-<!-- [Solutions](https://learn.fullstackacademy.com/workshop/5ac57806bd9f9e0004adb186/content/5ac57806bd9f9e0004adb18c/text) -->
+[Solutions](https://learn.fullstackacademy.com/workshop/5ac57806bd9f9e0004adb186/content/5ac57806bd9f9e0004adb18c/text)
 
 ### Notes 
 [Full Notes](05-arrays-i)
@@ -118,3 +123,85 @@
 5. [More methods](05-array-i/05-more-methods.js)
 6. [Slice + Reverse](05-array-i/06-slice.js)
 
+
+## **06 Arrays II**
+
+**[Prerecorded Lecture](https://learn.fullstackacademy.com/workshop/5ac579437ec3340004bdde15/content/5ac579437ec3340004bdde19/text)**
+
+**[Live Lecture]()**
+
+[Workshop](https://learn.fullstackacademy.com/workshop/5ac579437ec3340004bdde15/content/5ac579437ec3340004bdde1a/text)
+
+[Solutions](https://learn.fullstackacademy.com/workshop/5ac579437ec3340004bdde15/content/5ac579437ec3340004bdde1b/text)
+
+### Notes 
+[Full Notes](06-array-ii)
+
+1. [Splice](06-array-ii/01-splice.js)
+2. [Join + Split](06-array-ii/02-join-split.js)
+3. [Concat](06-array-ii/03-concat.js)
+4. [Nested Arrays](06-array-ii/04-nested-arrays.js)
+
+## **07 Objects I**
+
+**[Prerecorded Lecture](https://learn.fullstackacademy.com/workshop/5ac57b3ebd9f9e0004adb210/content/5ac57b3ebd9f9e0004adb214/text)**
+
+**[Live Lecture]()**
+
+[Workshop](https://learn.fullstackacademy.com/workshop/5ac57b3ebd9f9e0004adb210/content/5ac57b3ebd9f9e0004adb215/text)
+
+[Solutions](https://learn.fullstackacademy.com/workshop/5ac57b3ebd9f9e0004adb210/content/5ac57b3ebd9f9e0004adb216/text)
+
+### Notes 
+[Full Notes](07-objects)
+
+1. [What is an Object](07-objects/01-what-is-an-object.js)
+2. [Create And Access](07-objects/02-create-and-access.js)
+3. [New Key-Value Pairs](07-objects/03-new-key-value-pairs.js)
+4. [Delete Key-Value Pairs](07-objects/04-delete-key-value-pairs.js)
+5. [In Operator](07-objects/05-in-operator.js)
+6. [For In Loop](07-objects/06-for-in-loop.js)
+7. [Object Methods](07-objects/07-object-methods.js)
+8. [Nested Arrays](07-objects/08-nested-arrays.js)
+9. [Nested Objects](07-objects/09-nested-object.js)
+
+## **08 Object Methods**
+
+**[Prerecorded Lecture](https://learn.fullstackacademy.com/workshop/5ac57cb8bd9f9e0004adb24a/content/5ac57cb8bd9f9e0004adb24f/text)**
+
+**[Live Lecture]()**
+
+[Workshop](https://learn.fullstackacademy.com/workshop/5ac57cb8bd9f9e0004adb24a/content/5ac57cb8bd9f9e0004adb24e/text)
+
+[Solutions](https://learn.fullstackacademy.com/workshop/5ac57cb8bd9f9e0004adb24a/content/5ac57cb8bd9f9e0004adb250/text)
+
+### Notes 
+[Full Notes](08-objects-methods)
+
+1. [What Are Methods](08-object-methods/01-what-are.js)
+2. [Creating Methods](08-object-methods/02-creating-methods.js)
+3. [Object Methods](08-object-methods/03-object-methods.js)
+4. [This Keyword](08-object-methods/04-this-keyword.js)
+5. [Calculator Example](08-object-methods/05-calc-example.js)
+
+## **09 Pass By Value and Pass By Reference**
+
+**[Prerecorded Lecture](https://learn.fullstackacademy.com/workshop/5aca3ccb37312200043b62bb/content/5aca3ccb37312200043b62c0/text)**
+
+**[Live Lecture]()**
+
+[Workshop](https://learn.fullstackacademy.com/workshop/5aca3ccb37312200043b62bb/content/5aca3ccb37312200043b62bf/text)
+
+[Solutions](https://learn.fullstackacademy.com/workshop/5aca3ccb37312200043b62bb/content/5aca3ccb37312200043b62c1/text)
+
+### Notes 
+[Full Notes](09-pbv-pbr)
+
+1. [Primitive Behavior](09-pbv-pbr/01-primitive-behavior.js)
+2. [Complex Behavior](09-pbv-pbr/02-complex-behavior.js)
+3. [Primitive](09-pbv-pbr/03-primitive.js)
+4. [Complex](09-pbv-pbr/04-complex.js)
+5. [Passing Primitive Values](09-pbv-pbr/05-passing-primitive.js)
+6. [Passing Complex Values](09-pbv-pbr/06-passing-complex.js)
+7. [Equality Operator](09-pbv-pbr/07-equality-operator.js)
+8. [Arrays Slice](09-pbv-pbr/08-arrays-slice.js)
