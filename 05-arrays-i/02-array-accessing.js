@@ -36,4 +36,9 @@ for (let i = 0; i < names.length; i++) {
 }
 
 
-console.log(names)
+console.log(names);
+
+
+names[7] = 'Bob';
+
+console.log(names);

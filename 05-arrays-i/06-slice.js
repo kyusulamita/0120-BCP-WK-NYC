@@ -12,8 +12,9 @@ http://www.pythontutor.com/visualize.html#code=let%20petNames%20%3D%20%5B'Mr.%20
 */
 
 let petNames = ['Mr. Bear', 'Mr. Sheep', 'Planty', 'Pusheen'];
-console.log(petNames)
+// console.log(petNames)
 // let petNames2 = petNames.slice();
+// console.log(petNames2);
 // // let petNames2 = petNames;
 
 // petNames.push("Theodore");
@@ -44,12 +45,12 @@ console.log(petNames)
 
 
 // https://goo.gl/6PGgVA REVERSE
-// let reversedArr = petNames.reverse();
-// console.log(reversedArr);
+console.log(petNames);
+// petNames.reverse();
 // console.log(petNames);
 
 
-// let petNamesCopy = petNames.slice(); // returns an array
-// let petNamesRev = petNamesCopy.reverse(); // .reverse is an array method
-let petNamesReversed = petNames.slice().reverse();
-console.log(petNamesReversed);
+let petNamesCopy = petNames.slice(); // creating a copy 
+petNamesCopy.reverse(); // .reverse is an array method
+// let petNamesReversed = petNames.slice().reverse();
+// console.log(petNamesReversed);

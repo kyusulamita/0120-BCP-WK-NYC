@@ -5,7 +5,7 @@
   learn more: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/unshift
 */
 // let names = ["Mr Bear", "Pusheen", "Planty"];
-// let newLength = names.unshift("Mr Sheep")
+// let newLength = names.unshift("Mr Sheep", "Theodore")
 // console.log(names);
 // console.log(newLength);
 
@@ -18,8 +18,8 @@
   it returns the removed element 
   learn more: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/shift
 */
-// let names = ["Mr Bear", "Pusheen", "Planty", "Mr Sheep"];
-// let mrSheep = names.shift();
-// console.log(names);
-// console.log(mrSheep);
+let names = ["Mr Bear", "Pusheen", "Planty", "Mr Sheep"];
+let mrBear = names.shift();
+console.log(names);
+console.log(mrBear);
 
