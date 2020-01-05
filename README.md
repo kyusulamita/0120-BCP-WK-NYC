@@ -88,12 +88,12 @@
 [Full Notes](04-scope)
 
 1. [Global Scope](04-scope/01-global-scope.js)
-2. [Global Scope II](04-scope/02-global-scope-ii.js)
+2. [Global Scope II](04-scope/02-global-scope-II.js)
 3. [Functional Scope](04-scope/03-functional-scope.js)
-4. [Functional Scope II](04-scope/04-functional-scope-ii.js)
+4. [Functional Scope II](04-scope/04-functional-scope-II.js)
 5. [Functions and Parameters](04-scope/05-functions-and-parameters.js)
 6. [Nested Functions](04-scope/06-nested-functions.js)
-7. [Nested Functions II](04-scope/07-nested-functions-ii.js)
+7. [Nested Functions II](04-scope/07-nested-functions-II.js)
 8. [Block Scope](04-scope/08-block-scope.js)
 9. [Scope Best Practices](04-scope/09-scope-best-practices.js)
 
