@@ -20,7 +20,7 @@
 // pusheen.age++;
 // pusheen.name = "Pusheen the Great"
 
-// // console.log(JSON.stringify(pusheen, null, 2))
+// console.log(JSON.stringify(pusheen, null, 2))
 // console.log(pusheen)
 // pusheen.greet("Liz");
 // pusheen.greet("Paige");
@@ -47,7 +47,7 @@
 // pusheen.age++;
 // pusheen.name = "Pusheen the Great"
 
-// // console.log(JSON.stringify(pusheen, null, 2))
+// console.log(JSON.stringify(pusheen, null, 2))
 // console.log(pusheen)
 // pusheen.greet("Liz");
 // pusheen.greet("Paige");
@@ -60,22 +60,36 @@
 //   color: 'gray and tabby',
 //   isHappy: true,
 //   greet: function(name){
+//     // this === pusheen
 //     console.log(`Hello ${name}, I am ${this.name} the ${this.color} cat. I am ${this.age}`);
 //     // console.log("Hello " + name + " I am " + this.name + " the " + this.color + " cat. I am " + this.age + ".");
 //   },
 //   birthYear: function(currentYear){
 //     // how can we change this method??
-//     return currentYear - this.age;
 //   },
 //   arrowMethod: (name) => {
 //     // this != pusheen;
 //     console.log(`Hello ${name}, I am ${this.name} the ${this.color} cat. I am ${this.age}`);
 //     // console.log("Hello " + name + " I am " + this.name + " the " + this.color + " cat. I am " + this.age);
+//   },
+
+//   sibling: {
+//     // name: 'Pip',
+//     getCoolBro: function () {
+//       console.log(this.name);
+//     },
+
+  
+//     getCoolBroArrow: () => {
+//       // undefined
+//       console.log(this.name);
+//     }
 //   }
 
 // };
 // pusheen.age += 10;
-// // pusheen.greet("Pond");
+// pusheen.greet("Pond");
+// pusheen.sibling.getCoolBroArrow();
 // console.log(pusheen.age)
 // console.log(pusheen.birthYear(2019));
 // pusheen.arrowMethod("Christine");
@@ -124,28 +138,32 @@ let pusheen = {
 
 // console.log(a === a);
 
-// let returnedObject = pusheen.getThis();
-// // // console.log(returnedObject.name);
+let returnedObject = pusheen.getThis();
+console.log(returnedObject === pusheen);
+// console.log(returnedObject.name);
 // returnedObject.name = "Sir Pusheen";
 
 // console.log(pusheen);
 
-// pusheen.levelUp = function(levels = 1){
-//   this.level += levels
-//   if (this.level > 30){
-//     this.name = "The best of all time"
-//   } 
-//   if (this.level < 20){
-//     this.name = "Pusheen"
-//   }
-//   return this.level
-// }
+pusheen.levelUp = function(levels = 1){
+  // undefined + 20 => NaN
+  this.level += levels;
+  if (this.level > 30){
+    this.name = "The best of all time"
+  } 
+  if (this.level < 20){
+    this.name = "Pusheen"
+  }
+  return this.level
+}
 
-// console.log(pusheen)
-// pusheen.levelUp(10)
-// console.log(pusheen)
-// pusheen.levelUp(20)
-// console.log(pusheen)
+console.log(pusheen)
+pusheen.levelUp(10)
+console.log(pusheen)
+pusheen.levelUp(20)
+console.log(pusheen)
+// pusheen.levelUp(-20)
+console.log(pusheen)
 // console.log(returnedObject === pusheen);
 
 const pip = {
@@ -153,6 +171,12 @@ const pip = {
   age: 5,
   color: 'Orange',
 }
+  // greet: function(name){
+  //   console.log(`Hello ${name}, I am ${this.name} the ${this.color} cat.`);
+  // },
+// pip.sayHi = pusheen.greet;
+// pip.sayHi('John');
+
 
 const mrBear = {
   name: 'Mr Bear',
@@ -163,10 +187,10 @@ const mrBear = {
   },
 }
 
-mrBear.salute("Nicholas")
-pip.salute = mrBear.salute
-pip.name = "Pip the little guy"
-pip.salute("Sara")
+// mrBear.salute("Nicholas")
+// pip.salute = mrBear.salute
+// pip.name = "Pip the little guy"
+// pip.salute("Sara")
 
 
 // pusheen.greet("Alvin")

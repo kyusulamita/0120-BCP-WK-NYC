@@ -128,7 +128,7 @@
 
 **[Prerecorded Lecture](https://learn.fullstackacademy.com/workshop/5ac579437ec3340004bdde15/content/5ac579437ec3340004bdde19/text)**
 
-**[Live Lecture]()**
+**[Live Lecture](https://youtu.be/0KaphtxccW8)**
 
 [Workshop](https://learn.fullstackacademy.com/workshop/5ac579437ec3340004bdde15/content/5ac579437ec3340004bdde1a/text)
 
@@ -146,7 +146,7 @@
 
 **[Prerecorded Lecture](https://learn.fullstackacademy.com/workshop/5ac57b3ebd9f9e0004adb210/content/5ac57b3ebd9f9e0004adb214/text)**
 
-**[Live Lecture]()**
+**[Live Lecture](https://youtu.be/8j2HOY6_TzY)**
 
 [Workshop](https://learn.fullstackacademy.com/workshop/5ac57b3ebd9f9e0004adb210/content/5ac57b3ebd9f9e0004adb215/text)
 
@@ -169,7 +169,7 @@
 
 **[Prerecorded Lecture](https://learn.fullstackacademy.com/workshop/5ac57cb8bd9f9e0004adb24a/content/5ac57cb8bd9f9e0004adb24f/text)**
 
-**[Live Lecture]()**
+**[Live Lecture](https://youtu.be/RF7N8ImR2po)**
 
 [Workshop](https://learn.fullstackacademy.com/workshop/5ac57cb8bd9f9e0004adb24a/content/5ac57cb8bd9f9e0004adb24e/text)
 

@@ -29,7 +29,7 @@ let pusheen = {
   greet: function(){
     console.log("Hello I am pusheen the cat.");
   },
-  getBirthYear: function(currentYear = 2019){
+  getBirthYear: function(currentYear = 2020){
     // if (currentYear === undefined){
     //   currentYear = 2019;
     // }
@@ -40,13 +40,15 @@ let pusheen = {
   }
 };
 
-console.log(pusheen.getBirthYear(2017))
-console.log(pusheen.getBirthYear())
+// console.log(pusheen.getBirthYear(2017))
+// console.log(pusheen.getBirthYear())
 
 
-pusheen.greetSulamita = function(){
-  console.log("Hello Sulamita")
+// pusheen.greetSulamita = function(){
+//   console.log("Hello Sulamita");
+// }
+pusheen["greetSulamita"] = function(){
+  console.log("Hello Sulamita");
 }
-// pusheen["greetSulamita"] = 
 
 pusheen.greetSulamita()
