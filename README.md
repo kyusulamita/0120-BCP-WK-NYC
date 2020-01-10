@@ -18,6 +18,56 @@
 * [Code Wars - Loops](https://www.codewars.com/kata/search/javascript?q=&r%5B%5D=-8&r%5B%5D=-7&tags=Loops) Practice more loops
 * [practice](https://www.codewars.com/users/MrZizoScream/authored)
 
+-
+## Arrays Practice
+
+> Some extra info in case you want to brush up on it.
+
+1. Additional Review
+ * [Arrays in Code Academy](https://www.codecademy.com/courses/web-beginner-en-8a35h/0/1)
+ * [More Code Academy](https://www.codecademy.com/courses/learn-javascript-arrays/lessons/arrays/exercises/arrays?course_redirect=introduction-to-javascript) 
+
+2. Videos on youtube
+ * [Arrays and methods](https://www.youtube.com/watch?v=RQYgxZPtPLw)
+
+3. Exercises
+ * [Array Review](https://repl.it/@kyusulamita/Review-of-Arrays)
+ * [Array Exercises](https://www.w3resource.com/javascript-exercises/javascript-array-exercises.php)
+ * [Cool slice example](https://repl.it/@kyusulamita/Cool-Slice-Example)
+ 
+ 
+ 
+----
+## Objects
+1. Additional Review
+ * [Intro to Objects](https://www.codecademy.com/courses/learn-javascript-objects/lessons/objects/exercises/intro?course_redirect=introduction-to-javascript)
+2. Exercises
+ * [Object Exercises and Solutions](https://www.w3resource.com/javascript-exercises/javascript-object-exercises.php)
+2. Practice Problems
+ *  [Strive Matching](https://www.codewars.com/kata/strive-matching-number-1/train/javascript)
+ * [Crash Override](https://www.codewars.com/kata/crash-override/train/javascript)
+      * [Solution](https://repl.it/@kyusulamita/Crash-Override)
+ * [Welcome](https://www.codewars.com/kata/welcome/train/javascript) 
+      * [Solution](https://repl.it/@kyusulamita/Welcome)
+----
+## Extra quizzes?
+> you will see the **var** keyword, please ignore it. Hopefully i will be able to rewrite these using ES6
+
+* [Loops and Arrays](http://www.codequizzes.com/javascript/beginner/operators-conditionals-loops-arrays)
+* [Function and variable scope](http://www.codequizzes.com/javascript/beginner/functions-variable-scope) 
+---
+
+
+## Code War Links:
+> Here are a few links to problems on code wars, feel free to start at whatever level you feel confident. They're an excellent way to review things we've learned thus far.
+
+
+> 8 = Beginner, 1 = Master
+
+* [Loops 8 kyu]( https://www.codewars.com/kata/search/my-languages?beta=false&q=&r=-8&tags=Loops)
+* [Loops 7 kyu](https://www.codewars.com/kata/search/my-languages?q=&r%5B%5D=-7&tags=Loops&beta=false )
+* [Control Flow(if and else) 8 kyu]( https://www.codewars.com/kata/search/my-languages?beta=false&q=&r=-8&tags=Control+Flow)
+* [Control Flow 7 kyu](https://www.codewars.com/kata/search/my-languages?q=&r%5B%5D=-7&tags=Control+Flow&beta=false)
 
 
 ## **01 Introduction and tidy code**
