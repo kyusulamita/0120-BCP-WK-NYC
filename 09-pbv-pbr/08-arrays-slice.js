@@ -21,9 +21,15 @@ https://goo.gl/aBa1KS
 https://goo.gl/a8n52C
 */
 
-// let array1 = [1, [2, 3]]; 
-// let array2 = array1.slice();
-// array1[1].push(4);
+let array1 = [1, [2, 3]]; 
+let array2 = array1.slice();
+
+// array2.push(40);
+// console.log(array2);
+// console.log(array1);
+array2[1] = array2[1].slice();
+// console.log(array2);
+// console.log(array1);
 // console.log(array2[1]);
 // console.log(array1[1] === array2[1]);
 
