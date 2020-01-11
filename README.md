@@ -255,3 +255,47 @@
 6. [Passing Complex Values](09-pbv-pbr/06-passing-complex.js)
 7. [Equality Operator](09-pbv-pbr/07-equality-operator.js)
 8. [Arrays Slice](09-pbv-pbr/08-arrays-slice.js)
+
+## **10 High Order Functions I**
+
+**[Live Lecture]()**
+
+[Workshop](https://learn.fullstackacademy.com/workshop/5aca3eba37312200043b62f7/content/5aca3eba37312200043b62fb/text)
+
+[Solutions](https://learn.fullstackacademy.com/workshop/5aca3eba37312200043b62f7/content/5aca3eba37312200043b62fd/text)
+
+### Notes 
+[Full Notes](10-high-order-functions-i)
+
+1. [Values and Arrays](10-high-order-functions-i/01-values-and-arrays.js) 
+2. [Functions And Arrays](10-high-order-functions-i/02-functions-and-arrays.js)      
+3. [Calling functions in array](10-high-order-functions-i/03-calling-functions-in-array.js)    
+4. [Passing functions into functions](10-high-order-functions-i/04-passing-functions-into-functions.js)
+5. [callsWithName Example](10-high-order-functions-i/05-calls-with-name-example.js)  
+6. [callsWithHello Example](10-high-order-functions-i/06-calls-with-hello-example.js)       
+7. [callsWithAll Example](10-high-order-functions-i/07-calls-all-with-example.js)
+8. [calc Example](10-high-order-functions-i/08-calc-example.js)
+9. [.forEach and .map](10-high-order-functions-i/09-forEach-map-array-method.js)    
+10. [mySplice Review](10-high-order-functions-i/10-mySplice-review.js)
+
+## **11 High Order Functions II**
+
+**[Live Lecture]()**
+
+[Workshop](https://learn.fullstackacademy.com/workshop/5aca4075097e670004598a96/content/5aca4075097e670004598a9a/text)
+
+[Solutions](https://learn.fullstackacademy.com/workshop/5aca4075097e670004598a96/content/5aca4075097e670004598a9c/text)
+
+### Notes 
+[Full Notes](11-high-order-functions-ii)
+
+1. [Functions return values](11-high-order-functions-ii/01-functions-return-values.js)
+2. [Functions return functions](11-high-order-functions-ii/02-functions-return-functions.js)
+3. [Functions return functions II](11-high-order-functions-ii/03-functions-return-invoked-functions.js)
+4. [getGreeter example](11-high-order-functions-ii/04-getGreeter-returning-functions.js)
+5. [Scope Refresher](11-high-order-functions-ii/05-scope-refresher.js)
+6. [What is Closure?](11-high-order-functions-ii/06-what-is-closure.js)
+7. [High Order Function + Params](11-high-order-functions-ii/07-high-order-function-with-params.js)
+8. [Both have params](11-high-order-functions-ii/08-both-have-params.js)
+9. [Both have params II](11-high-order-functions-ii/09-both-have-params-ii.js)
+
