@@ -22,6 +22,6 @@ let amazingArray = [happyFunction, jumpingFunction, sleepingFunction];
 
 for (let i = 0; i < amazingArray.length; i++) {
   let element = amazingArray[i]; // each element is a function!
-  element();
+  // element('Pusheen');
   // element;
 }

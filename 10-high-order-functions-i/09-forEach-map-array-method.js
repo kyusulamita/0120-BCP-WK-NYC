@@ -28,16 +28,21 @@
 // }
 
 // bridges.forEach(logUpperCase);
+
 // const pets = ['Mr Bear', 'Pusheen', 'Sookie', 'Winkie'];
 
-// function lovesToEat(name, idx){
-//   console.log(`${name} loves to eat. He is at index ${idx}`);
-//   return name.toUpperCase();
-// }
+function lovesToEat(name, idx, arr){
+  console.log(`${name} loves to eat.  He is at index ${idx}. ${arr}`);
+  // arr[idx] = arr[idx].toUpperCase();
+
+  return name.toUpperCase();
+}
 
 // callsAllWith(pets, lovesToEat)
 
 // const forEachReturn = pets.forEach(lovesToEat);
+
+// console.log(pets);
 // console.log(pets);
 // console.log(forEachReturn);
 // function logUpperCase(bridge, i, arr) {
@@ -84,21 +89,46 @@
 // const pets = ['Mr Bear', 'Pusheen', 'Sookie', 'Winkie'];
 
 // const petUpper = pets.map(capitalizeNames);
+// console.log(pets);
 // console.log(petUpper);
 // console.log(pets);
 
 const nums = [1, 2, 3, 4, 5];
 
-function squareNum(num){
-  return num *  num;
+// function squareNum(num){
+//   return num *  num;
+// }
+
+function oddAndEvens (arr) {
+  const oddNums = [];
+  const evenNums = [];
+
+  // for (let i = 0; i < arr.length; i++){
+  //   const elem = arr[i];
+  //   if (elem %  2)  {
+  //     oddNums.push(elem)
+  //   } else {
+  //     evenNums.push(elem)
+  //   }
+  // }
+
+  arr.forEach(function (elem)  {
+    if (elem % 2)  {
+      oddNums.push(elem)
+    } else {
+      evenNums.push(elem)
+    }
+  })
+
+  return [oddNums, evenNums];
 }
 
 // const numsSquared = nums.map(squareNum);
 // console.log(numsSquared);
 
-const numsSquared = nums.map(function(num) {
-  return num * num;
-})
+// const numsSquared = nums.map(function(num) {
+//   return num * num;
+// });
 
-console.log(numsSquared);
-console.log(nums);
+// console.log(numsSquared);
+// console.log(nums);

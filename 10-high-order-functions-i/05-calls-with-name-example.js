@@ -11,8 +11,12 @@ function saysBye(name) {
   console.log(`Bye ${name}!`);
 }
 
-function callsWithName(name, sayHiOrBye) {
-  sayHiOrBye(name);
+function callsWithName(name, otherFunc) {
+  // name = 'Sadie'
+  // otherFunc = saysHi
+
+  // sayHi('Sadie')
+  otherFunc(name);
 }
 
 callsWithName('Sadie', saysHi);  // saysHi('Sadie')  // `Hi Sadie!`
