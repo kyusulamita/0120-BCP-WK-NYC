@@ -258,7 +258,7 @@
 
 ## **10 High Order Functions I**
 
-**[Live Lecture]()**
+**[Live Lecture](https://youtu.be/K6zTm15MJBU)**
 
 [Workshop](https://learn.fullstackacademy.com/workshop/5aca3eba37312200043b62f7/content/5aca3eba37312200043b62fb/text)
 
