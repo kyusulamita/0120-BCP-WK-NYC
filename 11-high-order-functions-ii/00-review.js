@@ -13,14 +13,14 @@
 //   return result;
 // }
 
-function whosASpecial(arrayOfPets) {
-  const arrayOfSentences = arrayOfPets.map(function(element) {
-    let name = element.name;
-    let species = element.species;
-    return `${name} the ${species} is very special!`;
-  });
+// function whosASpecial(arrayOfPets) {
+//   const arrayOfSentences = arrayOfPets.map(function(element) {
+//     let name = element.name;
+//     let species = element.species;
+//     return `${name} the ${species} is very special!`;
+//   });
   
-  console.log(arrayOfSentences);
+//   console.log(arrayOfSentences);
   
-  return arrayOfSentences.join(' ');
-}
+//   return arrayOfSentences.join(' ');
+// }

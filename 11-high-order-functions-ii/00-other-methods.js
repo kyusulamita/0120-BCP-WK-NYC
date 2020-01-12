@@ -14,7 +14,7 @@
 //   return string === 'apple';
 // }
 
-// let fruits = ['not an apple', 'not an apple', 'apple', 'not an apple'];
+// let fruits = ['not an apple', 'not an apple', 'apple', 'not an apple', 'apple'];
 // console.log(fruits);
 // const apples = fruits.filter(isApple);
 // console.log(apples);
@@ -25,8 +25,8 @@
 
 //   for (let i = 0; i < arr.length; i++){
 //     const elem = arr[i];
-//     if (checker(elem)) {
-//       metReqs(elem, idx, arr);
+//     if (checker(elem, i, arr)) {
+//       metReqs(elem);
 //     }
 //   }
 //   return metReqs;
@@ -58,7 +58,7 @@
 // it's syntax is different from other array methods with callback we encountered
 
 
-// const nums = [1,2, 3, 4, 5];
+// const nums = [1, 2, 3, 4, 5];
 
 // const total = nums.reduce(function(acc, elem) {
 //   // acc is whatever you returned in your previous call to the callback
@@ -73,9 +73,11 @@
 // // let's bring who's a special
 // const pets = ['Mr Bear', 'Pusheen', 'Sookie', 'Winkie'];
 
-// const phrase = pets.reduce(function(sentenceSoFar, pet) {
+// const phrase = pets.reduce(function(sentenceSoFar, pet, idx) {
 //   const newSection = `${pet} is so great!`;
-//   console.log(JSON.stringify({ newSection, sentenceSoFar }));
+//   console.log(JSON.stringify({ sentenceSoFar, idx }));
 //   return sentenceSoFar + newSection;
 // }, '');
+
+// console.log(phrase);
 

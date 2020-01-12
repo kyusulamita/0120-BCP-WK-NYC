@@ -57,6 +57,7 @@ function getGreeter() {
     console.log(`hello ${name} from ${city}. You are ${age}`)
   }
   return fancyGreeter;
+  
   // return function (name = 'Theodore', age = 12) {
   //   console.log(`Hi ${name}! You are ${age}`);
   // }
