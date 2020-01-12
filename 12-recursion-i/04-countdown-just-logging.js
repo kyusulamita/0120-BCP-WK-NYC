@@ -7,7 +7,7 @@ function countdown(num) {
   console.log(num);
 }
 
-countdown(5); 
+countdown(5);
 countdown(4);
 countdown(3);
 countdown(2); // notice, no loops!

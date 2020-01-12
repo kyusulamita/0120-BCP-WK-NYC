@@ -40,26 +40,31 @@ recSumArr([3]) => 3
 https://goo.gl/of193d
 */
 // [2, 3]
-// function recSumArr(arr){
-//   if (arr.length === 0) {
-//     return 0;
-//   }
-//   if (arr.length === 1) {
-//     return arr[0];
-//   }
-//   // slice method
-//   const firstElem = arr[0]; // 2
-//   const restOfArr = arr.slice(1); // [3]
+function recSumArr(arr){
+  if (arr.length === 0) {
+    return 0;
+  }
+  if (arr.length === 1) {
+    const onlyElem = arr[0]
+    return onlyElem;
+  }
 
-//   const sumOfRestOfArr = recSumArr(restOfArr); // recSumArr([3])  => 3
+  // have to make the array smaller
+  // i'm only concerned about a small bit
 
-//   return firstElem + sumOfRestOfArr; // 2 + 3
-// }
 
-// console.log(recSumArr([]));// 0
-// console.log(recSumArr([4])); // 4
-// console.log(recSumArr([2, 3])); //5
-// console.log(recSumArr([1, 2, 3, 4, 5])); //15
+  const firstElem = arr[0];  // 2
+  const restOfArr = arr.slice(1);  // [3]
+
+  const sumOfRestOfArr = recSumArr(restOfArr); // recSumArr([3]) //3
+
+  return firstElem + sumOfRestOfArr;
+}
+
+console.log(recSumArr([]));// 0
+console.log(recSumArr([4])); // 4
+console.log(recSumArr([2, 3])); //5
+console.log(recSumArr([1, 2, 3, 4, 5])); //15
 
 /*
 https://goo.gl/rbnCUL

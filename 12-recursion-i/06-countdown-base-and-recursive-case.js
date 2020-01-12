@@ -83,15 +83,17 @@ function countdown(num) {
 // decrement by one and then use this value
 // --num
 
-// let num1 =  100;
-// let num2 =  100;
+let num1 =  100;
+let num2 =  100;
 
-// console.log(--num1); // 99
-// console.log(num2--);  // 100
+console.log(--num1); // 99
+console.log(num2--);  // 100
 
+num1--;
+--num2;
 
-// console.log(num1); // 99
-// console.log(num2);  // 99
+console.log(num1); // 98
+console.log(num2);  // 98
 
 
 function countdown(num) {
